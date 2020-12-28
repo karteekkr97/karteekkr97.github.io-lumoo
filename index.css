@@ -7,13 +7,12 @@ body {
     font-size: 2rem;
     word-spacing: 5px;
     line-height: 1.0;
-    margin-bottom: 15px;
 }
 
 .one {
     top: 40px;
     right: 90px;
-    height: 40%;
+    height: 26%;
     width: 40%;
 }
 
@@ -26,7 +25,7 @@ body {
     display: block;
     box-sizing: border-box;
     position: absolute;
-    padding: 15px 15px 15px;
+    padding: 15px 15px;
     margin: 40px;
     overflow: hidden;
     background-color: rgba(255, 255, 255, 0.9);
@@ -267,7 +266,19 @@ button {
         margin: 0;
     }
     .container1 {
-        font-size: 21px;
+        font-size: 15px;
         margin: 10px;
+    }
+    .container1 .one {
+        margin: 0;
+        height: 13.5%;
+        width: 45%;
+        padding: 2px;
+    }
+    .info {
+        margin-bottom: 10px;
+    }
+    .info2 {
+        margin-top: 5px;
     }
 }
