@@ -250,21 +250,24 @@ button {
     .wrapper {
         display: flex;
         flex-direction: column;
+        margin: 10px;
     }
     body {
-        height: 100%;
-        width: 100%;
         padding: 0;
         margin: 0;
     }
+    .wrapper {
+        margin-left: 15%;
+    }
     .main-container2 {
-        margin: 0;
+        margin: 10px;
     }
     .Ink,
     .Ink2 {
         margin: 0;
     }
     .container1 {
-        font-size: 20px;
+        font-size: 21px;
+        margin: 10px;
     }
 }
