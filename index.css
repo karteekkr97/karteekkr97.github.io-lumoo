@@ -1,9 +1,7 @@
- body {
+body {
     display: flex;
     padding: 30px;
-    font-family: 'Halvetica Neue, Helvetica, Arial, sans-serif';
-    font-style: normal;
-    font-weight: 600;
+    font-family: 'Open Sans Condensed', sans-serif;
 }
 
 .one {
@@ -27,6 +25,7 @@ img {
     position: absolute;
     padding: 15px;
     width: 40%;
+    height: 25%;
     margin: 40px;
     overflow: hidden;
     background-color: rgba(255, 255, 255, 0.9);
@@ -41,7 +40,7 @@ img {
 .info2 {
     margin-top: 10px;
     display: block;
-    padding: 10px;
+    padding: 15px;
     color: white;
     background-color: blue;
     border-radius: 5px;
@@ -241,7 +240,7 @@ button {
     }
     .four {
         width: 95%;
-        margin-top: -65%;
+        margin-top: -50%;
         margin-left: 10%;
     }
     .six {
@@ -254,12 +253,12 @@ button {
         height: 100%;
     }
     .in2 {
-        margin-top: 90%;
+        margin-top: 80%;
         width: 100%;
         height: 100%;
     }
     .in3 {
-        margin-top: -3%;
+        margin-top: -8%;
         width: 100%;
         height: 100%;
     }
@@ -269,7 +268,7 @@ button {
     }
     .in5 {
         width: 180%;
-        margin-top: 90%;
+        margin-top: 80%;
         height: 100%;
     }
     .main-container2 {
